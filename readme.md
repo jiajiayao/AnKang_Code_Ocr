@@ -7,3 +7,6 @@
 - 自动化识别图片文字，提取姓名
 
 - 批量化修改图片名称为“姓名--name”
+
+## 图片实例
+<image src='https://github.com/jiajiayao/anKangMaOcr/blob/master/801/801/%E5%A7%93%E5%90%8D--%E4%BD%B3%E4%BD%B3.jpg'>
